@@ -1,0 +1,78 @@
+
+    .img{
+    height: 80%;
+    width: 100%;
+    background-image: url("about4.jpg");
+    justify-content:center;
+    flex-direction:column;
+    text-align: center;
+    color: white;
+    font-size:1.5rem;
+    font-family: Algerian;
+    }
+
+    .text{
+        height:80%;
+        width:100%;
+        background-color:bisque;
+        text-align:center;
+        color:brown;
+        font-size: 1.1rem;
+        font-family:Chiller;
+    }
+    .img1{
+        height:60%;
+        width:100%;
+        background-color:rgb(86, 18, 18);
+        text-align:left;
+        font-family:Microsoft Uighur;
+        color:whitesmoke;
+    }
+    .back{
+        height:300.70px;
+        width:400px;
+        background-image: url("ourMission.png");
+        left:900px;
+        position:absolute;
+        
+        
+    
+    }
+    
+    .image{
+        height:30.5%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: left center right;
+        gap:180px;
+
+    }
+ .img2{
+    height:200px;
+    width:1000px;
+    background-image: url("co.jpg") ;
+    background-size:cover;
+
+ }
+ .img3{
+    height:200px;
+    width:1000px;
+    background-image: url("hot dog.jpg") ;
+    background-size:cover;
+}
+    .img4{
+    height:200px;
+    width:1000px;
+    background-image: url("burger.jpg") ;
+    background-size:cover;
+}
+
+
+
+
+
+
+ 
+
+ 

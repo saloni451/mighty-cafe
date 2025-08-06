@@ -1,0 +1,49 @@
+.create{
+    height:10%;
+    width:100%;
+    background-color:darkred;
+    justify-content:center;
+    flex-direction:column;
+    text-align: center;
+    color: white;
+    font-size:1.5rem;
+    font-family: Algerian;
+}
+.img{
+    height:90%;
+    width:99.3%;
+    background-image: url("menub2.jpg");
+    display: flex;
+    gap:100px;
+    padding-top: 10px;
+    padding-left:10px;
+}
+.imgback{
+      height:40%;
+        width: 100%;
+        display: flex;
+        flex-direction:row;
+        gap:50px;
+
+
+
+}
+.img1{
+     height:450px;
+    width:300px;
+    background-image: url("menu1.jpg") ;
+    background-size:cover;
+
+}
+.img2{
+    height: 450px;
+    width:300px;
+    background-image: url("menu2.jpg") ;
+    background-size:cover;
+}
+.img3{
+    height: 450px;
+    width:300px;
+    background-image: url("menu4.jpg") ;
+    background-size:cover;
+}
